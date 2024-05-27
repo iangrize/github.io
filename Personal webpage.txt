@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ian Lester Lopina - Virtual Assistant</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #0056b3;
+        }
+        .bio {
+            margin-bottom: 20px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .contact {
+            background-color: #0056b3;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        .contact a {
+            color: #fff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Ian Lester Lopina</h1>
+        <h2>Virtual Assistant</h2>
+        <div class="bio section">
+            <p>Hi, I'm Ian Lester Lopina, a virtual assistant with more than 8 years of experience in Data Entry, List Building, Lead Generation, Content Moderation, and CCTV Monitoring. I take pride in what I do and am constantly learning to grow and improve my skills.</p>
+            <p>Outside of work, I enjoy playing strategic games like Dota 2 and am always eager to learn new things.</p>
+        </div>
+        <div class="skills section">
+            <h2>Skills</h2>
+            <ul>
+                <li>Data Entry</li>
+                <li>List Building</li>
+                <li>Lead Generation</li>
+                <li>Content Moderation</li>
+                <li>CCTV Monitoring</li>
+            </ul>
+        </div>
+        <div class="contact section">
+            <h2>Contact</h2>
+            <p>If you'd like to work with me or learn more, feel free to reach out!</p>
+            <p>Email: <a href="mailto:ianlopina@example.com">ianlopina@example.com</a></p>
+        </div>
+    </div>
+</body>
+</html>
